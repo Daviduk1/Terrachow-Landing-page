@@ -12,7 +12,7 @@
 
 @media screen and (max-width:650px) {
     #mockup{
-        height: 80vh;
+        height: 90vh;
     }
     
 }
@@ -171,7 +171,7 @@ ul {
         justify-content: space-evenly;
         position: relative;
         top: 19rem;
-        right: 2rem;
+        right: 1rem;
     }
     
 }
