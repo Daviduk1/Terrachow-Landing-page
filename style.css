@@ -12,7 +12,8 @@
 
 @media screen and (max-width:650px) {
     #mockup{
-        height: 90vh;
+        height: 98vh;
+        paadding:10px
     }
     
 }
