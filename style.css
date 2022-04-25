@@ -175,10 +175,10 @@ ul {
     }
     
 }
-@media screen and (max-width:650px) {
+@media screen and (max-width:600px) {
     .terrachow li{
         display: inline-block;
-        padding: 2rem 5px;
+        padding: 10px 5px;
     }
     
 }
